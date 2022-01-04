@@ -11,4 +11,7 @@ chenlize96/chenlize96 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-* 一个不踏实并且不能坚持的大笨蛋而已，正在改正。
+---
+Please ignore the below words.
+
+ 一个不踏实并且不能坚持的大笨蛋而已。正在努力改正。
