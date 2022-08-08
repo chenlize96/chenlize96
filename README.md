@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=chenlize96&show_icons=truehide_title=false" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=chenlize96)
