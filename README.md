@@ -4,7 +4,7 @@
 
 - ✨ Here is my personal website: https://chenlize96.github.io/
 
-- 👀 I’m actively looking for a 2023 spring full-time or contract software engineering position.
+- 👀 I’m actively looking for a 2023/2024 full-time software engineering position.
 
 - 📫 How to reach me - chenlize96@gmail.com OR <a href="https://www.linkedin.com/in/chenlize96/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="18px" alt="LinkedIn"> </a>
 
